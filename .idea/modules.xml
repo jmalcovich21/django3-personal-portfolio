@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../env/.idea/env.iml" filepath="$PROJECT_DIR$/../env/.idea/env.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../password_generator-project/.idea/password_generator-project.iml" filepath="$PROJECT_DIR$/../password_generator-project/.idea/password_generator-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/personal_portfolio.iml" filepath="$PROJECT_DIR$/.idea/personal_portfolio.iml" />
+    </modules>
+  </component>
+</project>
